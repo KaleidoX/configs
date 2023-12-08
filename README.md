@@ -1,5 +1,5 @@
 # my configs
 
-## Shadowrocket
+## Tools
 
-- [banList]()
+- [Shadowrocket](https://github.com/KaleidoX/configs/blob/main/Shadowrocket/README.md)
